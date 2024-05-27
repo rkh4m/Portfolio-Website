@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'garamond-pro-regular';
+  src: url('./fonts/Garamond-Premier-Pro-Regular.ttf') format('truetype'); /* Adjust format if needed */
+}
+
+@font-face {
+  font-family: 'agmena-pro';
+  src: url('./fonts/Agmena-Pro-Book.ttf') format('truetype'); /* Adjust format if needed */
+}
